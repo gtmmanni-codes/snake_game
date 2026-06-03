@@ -1,6 +1,6 @@
 # snake_game
 
-Play snake game that we used to play as a child but now in modern look and feel
+A simple and responsive Snake Game built using HTML5 Canvas, CSS3, and Vanilla JavaScript. Control the snake, eat food, increase your score, and try to beat your high score.
 
 ## Features
 
