@@ -11,3 +11,9 @@ A simple and responsive Snake Game built using HTML5 Canvas, CSS3, and Vanilla J
 - Pause and resume functionality
 - Restart game at any time
 - Increasing difficulty as the snake grows
+
+## Technologies Used
+
+HTML5
+CSS3
+JavaScript (Vanilla JS)
