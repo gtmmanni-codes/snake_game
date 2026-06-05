@@ -46,3 +46,4 @@ No installation or dependencies are required.
 4. The snake speeds up as your score increases.
 5. Avoid colliding with your own body.
 6. The game ends when the snake hits itself.
+7. Your highest score is automatically saved in the browser.
