@@ -53,3 +53,6 @@ No installation or dependencies are required.
 1. Sound effects
 2. Touch controls for mobile devices
 3. Difficulty levels
+4. Obstacles and walls
+5. Multiple themes
+6. Leaderboard system
