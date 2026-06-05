@@ -17,3 +17,14 @@ A simple and responsive Snake Game built using HTML5 Canvas, CSS3, and Vanilla J
 HTML5
 CSS3
 JavaScript (Vanilla JS)
+
+## controls
+
+| Key   | Action         |
+| ----- | -------------- |
+| ↑ / W | Move Up        |
+| ↓ / S | Move Down      |
+| ← / A | Move Left      |
+| → / D | Move Right     |
+| Space | Pause / Resume |
+| R     | Restart Game   |
