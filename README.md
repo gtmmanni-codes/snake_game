@@ -28,3 +28,12 @@ JavaScript (Vanilla JS)
 | → / D | Move Right     |
 | Space | Pause / Resume |
 | R     | Restart Game   |
+
+## How to Run
+
+1. Download or clone the project.
+   git clone https://github.com/your-username/snake-game.git
+2. Open the project folder.
+3. Double-click index.html or open it in your preferred web browser.
+
+No installation or dependencies are required.
