@@ -37,3 +37,9 @@ JavaScript (Vanilla JS)
 3. Double-click index.html or open it in your preferred web browser.
 
 No installation or dependencies are required.
+
+## Game Rules
+
+1. Control the snake using Arrow Keys or WASD.
+2. Eat the red food blocks to earn points.
+3. Each food item increases your score by 10 points.
