@@ -47,3 +47,9 @@ No installation or dependencies are required.
 5. Avoid colliding with your own body.
 6. The game ends when the snake hits itself.
 7. Your highest score is automatically saved in the browser.
+
+## Future Improvements
+
+1. Sound effects
+2. Touch controls for mobile devices
+3. Difficulty levels
