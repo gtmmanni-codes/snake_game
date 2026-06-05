@@ -45,3 +45,4 @@ No installation or dependencies are required.
 3. Each food item increases your score by 10 points.
 4. The snake speeds up as your score increases.
 5. Avoid colliding with your own body.
+6. The game ends when the snake hits itself.
